@@ -1,4 +1,4 @@
-# examen
+# Controle JEE 2023/2024
 # Gestion du Stockage avec Spring Boot
 Ce projet a pour objectif de simplifier la gestion des articles et des catégories dans un système de stockage. Il offre un service web doté de fonctionnalités essentielles pour la gestion des informations des articles, y compris leur catégorie et leur date de production.
 
