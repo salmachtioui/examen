@@ -51,6 +51,7 @@ Le projet est configuré pour utiliser une base de données H2 embarquée par d�
 ![image](https://github.com/salmachtioui/examen/assets/147477621/c669d019-6c74-4457-a756-30cd400fd8eb)
 . Ajout des articles :
 ![image](https://github.com/salmachtioui/examen/assets/147477621/baafd357-c52e-4c67-b27a-52c06864d70a)
+
 # Pour categorie :
 . Ajout des categories :
 ![image](https://github.com/salmachtioui/examen/assets/147477621/ea4482e9-4dda-4493-aac3-9684f43c0b22)
@@ -62,7 +63,10 @@ Le projet est configuré pour utiliser une base de données H2 embarquée par d�
  ![image](https://github.com/salmachtioui/examen/assets/147477621/0caeb2cf-8f7a-478e-ba84-75077dce391a)
 -Apres :
 ![image](https://github.com/salmachtioui/examen/assets/147477621/fb18a9ca-30a0-4be8-9cd8-be22b8a636dc)
- # Pour   :
+
+ # Test de production des articles entre deux dates :
+ ![999](https://github.com/salmachtioui/examen/assets/147477621/5d6b9067-41b9-4557-a8fa-7447d56f5e1a)
+
  
 
 
