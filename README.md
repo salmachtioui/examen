@@ -66,6 +66,11 @@ Le projet est configuré pour utiliser une base de données H2 embarquée par d�
 
  # Test de production des articles entre deux dates :
  ![999](https://github.com/salmachtioui/examen/assets/147477621/5d6b9067-41b9-4557-a8fa-7447d56f5e1a)
+ # Conclusion 
+ Le projet vise à créer un service web avec Spring Boot pour gérer des articles et des catégories dans un système de stockage. Il offre des fonctionnalités telles que l'ajout, la consultation, la mise à jour et la suppression d'articles, ainsi que la classification par catégorie. Le projet utilise Spring Boot, Spring Data JPA, Hibernate, et une base de données H2 intégrée. Les utilisateurs peuvent contribuer au projet, qui est sous licence MIT. Consultez CONTRIBUTING.md pour les instructions de contribution.
+ # Configuration 
+ Vous pouvez cloner le projet et le lancer :https://github.com/salmachtioui/examen.git
+ 
 
  
 
